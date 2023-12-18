@@ -1,0 +1,15 @@
+C:\Users\borba\Desktop\vs\Win95KeygenC#\Win95KeygenC#\bin\Debug\Win95KeygenC#.exe.config
+C:\Users\borba\Desktop\vs\Win95KeygenC#\Win95KeygenC#\bin\Debug\Win95KeygenC#.exe
+C:\Users\borba\Desktop\vs\Win95KeygenC#\Win95KeygenC#\bin\Debug\Win95KeygenC#.pdb
+C:\Users\borba\Desktop\vs\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.csproj.AssemblyReference.cache
+C:\Users\borba\Desktop\vs\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\borba\Desktop\vs\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.csproj.CoreCompileInputs.cache
+C:\Users\borba\Desktop\vs\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.exe
+C:\Users\borba\Desktop\vs\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.pdb
+D:\Users\borba\Desktop\vs\random projects\Win95KeygenC#\Win95KeygenC#\bin\Debug\Win95KeygenC#.exe.config
+D:\Users\borba\Desktop\vs\random projects\Win95KeygenC#\Win95KeygenC#\bin\Debug\Win95KeygenC#.exe
+D:\Users\borba\Desktop\vs\random projects\Win95KeygenC#\Win95KeygenC#\bin\Debug\Win95KeygenC#.pdb
+D:\Users\borba\Desktop\vs\random projects\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.csproj.AssemblyReference.cache
+D:\Users\borba\Desktop\vs\random projects\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.csproj.CoreCompileInputs.cache
+D:\Users\borba\Desktop\vs\random projects\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.exe
+D:\Users\borba\Desktop\vs\random projects\Win95KeygenC#\Win95KeygenC#\obj\Debug\Win95KeygenC#.pdb
