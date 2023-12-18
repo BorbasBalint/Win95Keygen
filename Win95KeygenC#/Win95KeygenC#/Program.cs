@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 
 namespace Win95KeygenC_
@@ -43,6 +44,7 @@ namespace Win95KeygenC_
             }
 
             strings.ForEach(x => Console.WriteLine(x));
+            File.WriteAllLines("Keys.txt", strings);
 
 
             Console.ReadKey();
